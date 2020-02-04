@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.maze-image {
+  width: 30px;
+  height: 30px;
+  padding-top: 5px;
+}
+
+#root{
+  margin: 0 auto;
+}
+
+#heading-text{
+  color: rgb(42, 42, 65)
+}
+
+#score {
+  color:  green;
+  font: bold;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 15px;
+}
+
+th, td {
+  margin-left: 7px
+}
+
+.cell{ 
+  width: 38px; height: 38px;
+  background: rgb(100, 60, 14);
+  border:solid black 1px;
+  display: block;
+  float: left;
+}
+
