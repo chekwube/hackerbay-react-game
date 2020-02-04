@@ -9,3 +9,7 @@ to install all the required packages in package.json file and then run
 npm start
 ```
 on your terminal.
+
+## Author
+
+* **Okeke Chekwube Julius** - [Cheks](https://github.com/chekwube)
